@@ -1,0 +1,14 @@
+{
+  "name": "jquery.get-selector",
+  "version": "1.0.0",
+  "description": "get full selector for a wrapped set.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies":{
+    "jquery":"*"
+  },
+  "author": "matchdav",
+  "license": "ISC"
+}

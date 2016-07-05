@@ -1,0 +1,18 @@
+{
+  "name": "jquery.get-selector",
+  "description": "get full selector for a wrapped set.",
+  "main": "index.js",
+  "authors": [
+    "Matthew Davidson <matthew.davidson@stocksy.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
